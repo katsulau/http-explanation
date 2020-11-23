@@ -1,0 +1,9 @@
+{
+    "plugins": ["-sharing","hide-published-with", "uml"],
+    "language": "ja",
+    "pluginsConfig": {
+      "uml": {
+        "charset": "UTF-8"
+      }
+    }
+}
